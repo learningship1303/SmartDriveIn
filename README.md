@@ -1,5 +1,4 @@
-# SmartDriveIn
-This repository contains a modular smart parking system that uses automated number plate recognition (NPR) to streamline vehicle entry, optimize space usage, and maintain efficient access control.
+
 # SmartDriveIn
 
 SmartDriveIn is a modular smart parking system designed to automate vehicle entry and exit using number plate recognition. It integrates hardware and software components to streamline parking operations, reduce manual intervention, and enhance security.
